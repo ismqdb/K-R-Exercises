@@ -1,0 +1,17 @@
+void printError(int line, char symbol) {
+	printf("%d", line);
+	putchar(' ');
+	putchar(symbol);
+	putchar(10); [	// KOMENTAR
+}
+
+int getSourceCode(char s[], int lim) {	// KOMENTAR
+	int c, i;
+
+	for (i = 0; i < lim - 1 && (c = getchar()) != EOF; ++i)
+		s[i] = c;
+
+	s[i] = '\0';	// KOMENTAR
+
+	return i;
+

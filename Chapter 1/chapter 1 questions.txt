@@ -1,0 +1,145 @@
+1.1 Getting started
+
+	01. From which elements C program consists?
+	02. What does C functions contain?
+	03. What does C statements do?
+	04. What does C variables do?
+	05. What is the role of the main() function?
+	06. What does the line 
+		#include <stdio.h> do?
+	07. What is one method of communication between functions?
+	08. How are C functions called?
+	09. What is printf()?
+	10. What is character string? What is string constant?
+	11. What does \n do?
+	12. What is escape sequence?
+
+1.2 Variables and Arithmetic Expressions
+
+	01. How are comments declared and where they can appear?
+	02. What does variable declaration does?
+	03. What's a difference between "int" and "float" type?
+	04. How many bits do "int" and "float" use, and what 
+		are their ranges?
+	05. What are other data types C provides?
+	06. What is assignment statement?
+	07. How are individual statements terminated?
+	08. How does "while" loop operate?
+	09. What does it mean that integer division "truncates"?
+	10. Explain output formatting with "printf" function.
+	11. What is integer promotin?
+	12. Explain width and precision of the output.
+	13. Which conversion specification "printf" uses for:
+		octal, hexadecimal, characters and strings?
+	
+1.3 The for statement
+
+	01. Explain the parts of the "for" loop and give examples.
+	02. What expressions can be in initialization, condition
+		and increment part of the "for" loop?
+	03. When should programmer choose "while" and when "for" loop?
+
+1.4 Symbolic Constants
+
+	01. What are "magic numbers" and how are they defined?
+	02. How are "magic numbers" also called?
+
+1.5 Character Input and Output
+
+	01. How is text input/output dealt with?
+	02. What is a text stream?
+	03. Explain getchar and putchar.
+
+		1.5.1 File Copying
+	
+			01. What does operator "!=" means?
+			02. How are characters on the screen 
+				stored internally?
+			03. Why is "int" used for storing characters?
+			
+		1.5.2 Character Couting
+			
+			01. What does operator "++" do?
+			02. How many bits does "long" type uses?
+			03. What is null statement?
+			04. How do loops act with zero lenght input?
+			
+		1.5.3 Line Couting
+		
+			01. What is operator "==" used?
+			02. What is character constant?
+			03. What is ASCII value of "\n"?
+			04. Explain difference between string
+				and characters.
+				
+		1.5.4 Word Couting
+		
+			01. What is assignment associativity?
+			02. What does operator "||" do?
+			03. What is short-curcuit of expressions?
+			04. What is general form of "if-else" clause?
+
+1.6 Arrays
+	
+	01. What does declaration array[n] means?
+	02. What expression can be array subscript?
+	03. What is a definition of the "char" type?
+	04. WHich construct is used to express
+		multiway decision?
+
+1.7 Functions
+	
+	01. What are functions good for?
+	02. What is the form of the function
+		definition?
+	03. Difference between formal and actual
+		argument.
+	04. What is the general form of the
+		return statement?
+	05. Does the function need to return a value?
+	06. To whom the main( ) function returns a value?
+	07. Explain zero vs non-zero return value from main( ).
+	08. What is the function prototype?
+
+1.8 Arguments - Call by Value
+
+	01. Temporary variables vs originals.
+	02. Is it possible to alter elements of the 
+		array through the function?
+
+1.9 Character Arrays
+	
+	01. What does the return type of void do?
+	02. What is "null character" and what is 
+		used for?
+	03. What does format specification 
+		"%s" do?
+	
+1.10 External Variables and Scope
+
+	01. What is automatic variable?
+	02. Why do automatic variables
+		must be set upon entry to the
+		function?
+	03. What is external variable?
+	04. Explain definition and declaration
+		of the external variables.
+	05. When are keywords extern redundant?
+	06. Explain definition and declaration
+		of the variable.
+	07. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
