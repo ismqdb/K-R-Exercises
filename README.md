@@ -2,4 +2,4 @@ I've learned C (and programming basics) from the K&R book. This repo is a collec
 
 They say it's good to have a portfolio, so here we go. I think it will be a good pointer to my knowledge of C and systems programming.
 
-All exercises are done by me, no external help, no chatgpt, no copy-pasting from stackoverflow. Although it is a C book, it provided a solid foundation to learn C++ afterwards.
+All exercises are done by me; no external help, no chatgpt, no copy-pasting from stackoverflow.
